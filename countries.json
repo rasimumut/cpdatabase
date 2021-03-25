@@ -1,0 +1,563 @@
+[{
+  "_id": {
+    "$oid": "6059c2714565510b84e84ad7"
+  },
+  "code": "FR",
+  "caseSum": 0,
+  "name": "Fransa",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Fransa"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c2844565510b84e84ada"
+  },
+  "code": "US",
+  "caseSum": 0,
+  "name": "ABD",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "ABD"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c2fd4565510b84e84ae0"
+  },
+  "code": "NL",
+  "caseSum": 0,
+  "name": "Hollanda",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Hollanda"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c3154565510b84e84ae3"
+  },
+  "code": "AR",
+  "caseSum": 0,
+  "name": "Arjantin",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Arjantin"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c3264565510b84e84ae6"
+  },
+  "code": "AT",
+  "caseSum": 0,
+  "name": "Avusturya",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Avusturya"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c3394565510b84e84ae9"
+  },
+  "code": "AU",
+  "caseSum": 0,
+  "name": "Avusturalya",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Avusturalya"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c3484565510b84e84aec"
+  },
+  "code": "BE",
+  "caseSum": 0,
+  "name": "Belçika",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Belçika"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c3604565510b84e84aef"
+  },
+  "code": "BR",
+  "caseSum": 0,
+  "name": "Brazilya",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Brazilya"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c37e4565510b84e84af7"
+  },
+  "code": "CA",
+  "caseSum": 0,
+  "name": "Kanada",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Kanada"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c3924565510b84e84afc"
+  },
+  "code": "DK",
+  "caseSum": 0,
+  "name": "Danimarka",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Danimarka"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c3a94565510b84e84aff"
+  },
+  "code": "EG",
+  "caseSum": 0,
+  "name": "Mısır",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Mısır"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c3c14565510b84e84b02"
+  },
+  "code": "SA",
+  "caseSum": 0,
+  "name": "Suudi Arabistan",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Suudi Arabistan"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c3d34565510b84e84b05"
+  },
+  "code": "KR",
+  "caseSum": 0,
+  "name": "Güney Kore",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Güney Kore"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c4534565510b84e84b21"
+  },
+  "code": "KP",
+  "caseSum": 0,
+  "name": "Kuzey Kore",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Kuzey Kore"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c46a4565510b84e84b24"
+  },
+  "code": "PL",
+  "caseSum": 0,
+  "name": "Polonya",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Polonya"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c4834565510b84e84b27"
+  },
+  "code": "RU",
+  "caseSum": 0,
+  "name": "Rusya",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Rusya"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c4924565510b84e84b2a"
+  },
+  "code": "UA",
+  "caseSum": 0,
+  "name": "Ukrayna",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Ukrayna"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c4c14565510b84e84b30"
+  },
+  "code": "TR",
+  "caseSum": 0,
+  "name": "Türkiye",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Türkiye"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c4d24565510b84e84b33"
+  },
+  "code": "AZ",
+  "caseSum": 0,
+  "name": "Azerbeycan",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Azerbeycan"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c4e14565510b84e84b36"
+  },
+  "code": "GB",
+  "caseSum": 0,
+  "name": "İngiltere",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "İngiltere"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c4ef4565510b84e84b39"
+  },
+  "code": "BG",
+  "caseSum": 0,
+  "name": "Bulgaristan",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Bulgaristan"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6059c5024565510b84e84b3c"
+  },
+  "code": "IN",
+  "caseSum": 0,
+  "name": "Hindistan",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Hindistan"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b2ca36bd5772eaca92584"
+  },
+  "code": "NO",
+  "caseSum": 0,
+  "name": "Norveç",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Norveç"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b361a6bd5772eaca92589"
+  },
+  "code": "HU",
+  "caseSum": 0,
+  "name": "Maceristan",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Maceristan"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605b4e75c00d6417f4a17dde"
+  },
+  "code": "DE",
+  "caseSum": 1000,
+  "name": "Almanya",
+  "value": [
+    {
+      "_id": {
+        "$oid": "60566a3350fc763084d89cb9"
+      },
+      "date": {
+        "$date": "2019-12-01T21:00:00Z"
+      },
+      "recover": 0,
+      "death": 0,
+      "case": 0,
+      "name": "Almanya"
+    },
+    {
+      "_id": {
+        "$oid": "605b4e75c00d6417f4a17de0"
+      },
+      "date": {
+        "$date": "2020-01-01T21:00:00Z"
+      },
+      "recover": 650,
+      "death": 200,
+      "case": 1000,
+      "name": "Almanya"
+    }
+  ],
+  "__v": 0
+}]
