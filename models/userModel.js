@@ -16,8 +16,6 @@ UserSchema = new Schema({
         trim:true,
     },
 
-
-
 },{collection:'users'})
 
 
